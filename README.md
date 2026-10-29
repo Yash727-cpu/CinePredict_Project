@@ -20,7 +20,7 @@ If you have not trained the model yet, place your cleaned dataset at `dataset/cl
 python app.py
 ```
 
-Open http://127.0.0.1:5000 in your browser.
+Open https://cinepredict-project.onrender.com/in your browser.
 
 ## Important
 - Without the trained `.pkl` file, the UI displays a clear error rather than a fabricated prediction.
